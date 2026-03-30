@@ -1,0 +1,3 @@
+{"step": "Forgot-password empty email", "response": "no POST request observed (client-side validation)"}
+{"step": "Forgot-password invalid email", "response": "no POST request observed (client-side validation)"}
+{"step": "Forgot-password valid email", "response": "status=200, url=https://appbackend.fordata.ai/api/accounts/forgot-password/, body={\"messages\":[\"If an account with that email exists, we have sent a password reset link.\"]}"}
